@@ -11,31 +11,31 @@ export default class App extends React.Component {
     const list = [
       {
         title: 'Brand 1',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
       {
         title: 'Brand 2',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
       {
         title: 'Brand 3',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
       {
         title: 'Brand 4',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
       {
         title: 'Brand 5',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
       {
         title: 'Brand 6',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
       {
         title: 'Brand 7',
-        icon: 'add-box'
+        icon: 'add-circle-outline'
       },
 
       // more items
